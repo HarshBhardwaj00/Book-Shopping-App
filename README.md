@@ -1,16 +1,20 @@
-# grocery_app
+# 📚 Book Shopping App  
 
-A new Flutter project.
+A Flutter-based Book Shopping Application** integrated with Firebase.  
+This app allows users to browse books, manage their cart, and securely sign up/login.  
 
-## Getting Started
+## ✨ Features  
+- 🔐 Authentication with Firebase 
+  - Signup with Email/Password  
+  - Login securely using Firebase Authentication  
+- 🛒 Cart Management  
+  - Add books to cart  
+  - Remove books from cart  
+  - View total items in cart  
+- 🎨 User-Friendly UI 
+  - Simple and clean interface  
+  - Smooth navigation between pages  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tech Stack  
+- Flutter(Frontend)  
+- Firebase Authentication(User Signup/Login)  

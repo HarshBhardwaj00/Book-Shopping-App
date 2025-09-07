@@ -1,6 +1,6 @@
 # 📚 Book Shopping App  
 
-A Flutter-based Book Shopping Application** integrated with Firebase.  
+A Flutter-based Book Shopping Application integrated with Firebase.  
 This app allows users to browse books, manage their cart, and securely sign up/login.  
 
 ## ✨ Features  

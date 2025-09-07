@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730401910892",
+    "project_id": "book-shopping-app-ccbfc",
+    "storage_bucket": "book-shopping-app-ccbfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730401910892:android:357c2ae01eb785cee46849",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeoHDATx2DvCHJfI75ep5MjPRz1PZpnTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
